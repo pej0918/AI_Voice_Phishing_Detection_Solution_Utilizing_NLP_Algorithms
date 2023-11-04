@@ -158,6 +158,7 @@ https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP
 <br><hr><br></details>
 <details>
 <summary><h3>📑Model Customization</h3></summary>
+ --> https://github.com/pej0918/2023Kibwa_Custom_Model
 <div markdown="1">
 <h3>👁️‍🗨️ The Process of Model Customization</h3>
 <h4>ㅤOur custom model is inspired by the R-BERT model and built upon the architecture of the KoBIGBIRD model. In the Relation Extraction Task, the R-BERT model enhances its performance by utilizing not only the CLS token but also the embedding vectors of entity1 and entity2.<br><br>ㅤIn this regard, our model can be characterized as a customized model that leverages not only the CLS token but also the entire dialogue data, extracted morphemes and keywords, and their respective embedding vectors in the training process.<br><br>ㅤFurthermore, by combining the CLS tokens of Kr-BERT and KoBIGBIRD, our model aims to integrate the diverse features of both models, leveraging their respective strengths and compensating for their shortcomings.</h4>
