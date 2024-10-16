@@ -4,7 +4,8 @@ https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP
 
 
 <br><br><h2>🐟 Project Organizations Link</h2>
--->  https://github.com/Voice-Phishing-Prevention-Project<br>
+
+--> https://github.com/Voice-Phishing-Prevention-Project<br>
 <br>![스크린샷 2023-11-04 183636](https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms/assets/102565567/4a7b0dfa-6529-4fab-bd8f-191ae83e109b)
 
 <br><br><h2>🐟 Contents_1) Introduction to Project Background </h2>
@@ -179,7 +180,7 @@ repository :<br> https://github.com/pej0918/2023Kibwa_Custom_Model
 ![스크린샷 2023-11-02 194843](https://github.com/alimhanhan/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms/assets/102565567/8a1a3181-3d59-49bd-b761-8d6ea85683ea)
 
 
-<br><h4>👉ㅤIn this project, the collected data is in unstructured form, categorized into phishing and legitimate data. To address class imbalance, augmentation was conducted only for the phishing data.</h4>
+<br><h4>👉ㅤIn this project, the collected data is in unstructured form, categorized into phishing and non-phishing data. To address class imbalance, augmentation was conducted only for the phishing data.</h4>
 <br><h4> Financial Supervisory Service Voice Phishing Voice Data:</h4>
 ➖ Loan fraud type: 185 instances<br>
 ➖ Financial fraud type: 227 instances
